@@ -8,9 +8,9 @@
     "test": "ts-node $(npm bin)/jasmine *_test.ts"
   },
   "dependencies": {
-    "@octokit/rest": "^18.0.6",
+    "@octokit/rest": "^22.0.1",
     "semver": "^7.5.4",
-    "simple-git": "^3.16.0"
+    "simple-git": "^4.0.1"
   },
   "devDependencies": {
     "@types/jasmine": "^3.6.0",
